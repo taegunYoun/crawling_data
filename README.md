@@ -1,5 +1,3 @@
-다음은 해당 Instagram 이미지 수집 자동화 스크립트용 `README.md` 파일 예시입니다. 이모티콘 없이, 복사 후 바로 사용할 수 있도록 구성했습니다.
-
 ---
 
 # Instagram Image Scraper
