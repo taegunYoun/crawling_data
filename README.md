@@ -29,7 +29,7 @@ pip install selenium requests
 ### 2. 스크립트 실행
 
 ```bash
-python instagram_scraper.py
+python insta_img_최종.py
 ```
 
 실행 시 아래와 같은 입력을 요구합니다:
